@@ -7,3 +7,5 @@ Heads up, the labs are not perfectly made, but i had fun making them. On top of 
 Mistakes pointed out by the professor: besides the egg, there also should be a model of a teapot. On the egg, theres a "stitch" on the side of it. It happens because the pixels are overlapping, you can change that by slightly changing the logic of the egg coloring. 
 
 If you have any questions -- feel free to ask, this was a subject and class that i enjoyed a lot personally.
+
+Ocena końcowa -- 4.0
